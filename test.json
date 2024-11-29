@@ -1,3 +1,9 @@
 {
-"url":"https://raw.githubusercontent.com/Harshj054/swagger_testing/refs/heads/main/test.yaml"
+    "url": "https://raw.githubusercontent.com/Harshj054/swagger_testing/refs/heads/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/Harshj054/swagger_testing/refs/heads/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
 }
